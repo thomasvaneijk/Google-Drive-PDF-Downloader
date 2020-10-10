@@ -1,6 +1,6 @@
 
-    let pdfDocumentName = "Document";
-    let doc = "";
+    let pdfDocumentName = "MCM";
+    let doc = "MCM";
 
     function generatePDF_DataFile (){
         let imgTags = document.getElementsByTagName("img");
